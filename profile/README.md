@@ -18,7 +18,7 @@ A fully automated **GitOps platform** on AWS EKS — from Terraform provisioning
 ### Highlights
 
 - **20+ stage Jenkins CI pipeline** with 6 security scanning tools
-- **12-stage nightly regression** — mutation testing, architecture tests, k6 perf, ZAP DAST, AI code review
+- **14-stage nightly regression** — mutation testing, architecture tests, k6 perf, ZAP DAST, Nuclei pen testing, AI code review
 - **ArgoCD App of Apps** managing 18 applications with canary deployments (auto-rollback on >5% errors)
 - **1,300+ lines of Terraform** — EKS, RDS, KMS, EFS, IRSA, VPC flow logs
 - **5 Grafana dashboards** + Prometheus monitoring + Slack notifications
