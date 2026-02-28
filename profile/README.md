@@ -6,7 +6,7 @@ We build production-grade DevOps platforms and cloud infrastructure.
 
 ## Flagship Project: Borod Bank
 
-A fully automated **GitOps platform** on AWS EKS — from Terraform provisioning through CI/CD pipelines to production monitoring and chaos engineering. Built as a solo DevOps project demonstrating end-to-end platform engineering.
+A fully automated **GitOps/AIOps platform** on AWS EKS — from Terraform provisioning through CI/CD pipelines to AI-powered code review and production monitoring. Built as a solo DevOps project demonstrating end-to-end platform engineering.
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-1.32-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-1.5+-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io/)
