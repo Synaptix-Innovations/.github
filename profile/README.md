@@ -1,6 +1,6 @@
 # Synaptix Innovations
 
-We help engineering teams automate their entire delivery process — from code commit to production — with built-in security, gradual rollouts, and real-time monitoring.
+We help engineering teams automate their entire delivery process  from code commit to production with built-in security, gradual rollouts, and real-time monitoring.
 
 ## What we build
 
