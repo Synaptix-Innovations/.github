@@ -11,3 +11,6 @@ We help engineering teams automate their entire delivery process  from code comm
 - **AI-powered code review** — automated analysis on every pull request
 
 📍 Canada · 🌐 [synaptixtech.net](https://www.synaptixtech.net) · ✉️ info@synaptixtech.net
+
+<!-- synaptix-stats:start -->
+<!-- synaptix-stats:end -->
