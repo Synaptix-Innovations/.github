@@ -13,4 +13,19 @@ We help engineering teams automate their entire delivery process  from code comm
 📍 Canada · 🌐 [synaptixtech.net](https://www.synaptixtech.net) · ✉️ info@synaptixtech.net
 
 <!-- synaptix-stats:start -->
+
+## Delivery activity
+
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=831a71a5" alt="Weekly reviews and merged pull requests" width="720">
+
+| All time | |
+|---|---:|
+| Reviews | 833 |
+| Codex reviews | 787 |
+| Claude reviews | 23 |
+| PRs merged | 479 |
+| Median rounds to approval | 1 |
+
+<sub>Counts only; generated from our own review log.</sub>
+
 <!-- synaptix-stats:end -->
