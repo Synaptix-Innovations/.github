@@ -1,21 +1,21 @@
 {
  "schema": 1,
- "as_of": "2026-10-12T18:51:33Z",
+ "as_of": "2026-10-12T19:46:19Z",
  "totals": {
-  "reviews": 845,
-  "codex": 799,
+  "reviews": 846,
+  "codex": 800,
   "claude": 23,
-  "merged": 486,
-  "median_rounds": 1,
+  "merged": 487,
+  "median_rounds": 1.0,
   "first_round_pct": 64
  },
  "windows": {
-  "reviews7": 38,
-  "merged7": 16,
+  "reviews7": 39,
+  "merged7": 17,
   "merge_hours_median_30d": 0.6
  },
  "rounds": {
-  "r1": 192,
+  "r1": 193,
   "r2": 50,
   "r3": 15,
   "r4": 16,
@@ -25,13 +25,13 @@
  },
  "coverage": {
   "since": "2026-07-01",
-  "merged": 346,
-  "reviewed": 307,
+  "merged": 347,
+  "reviewed": 308,
   "pct": 89
  },
  "delivery": {
   "merges_per_week_4w": 19.0,
-  "ci_pass_rate_30d": 93,
+  "ci_pass_rate_30d": 94,
   "ci_runs_30d": 205
  },
  "weeks": [
@@ -114,10 +114,10 @@
   },
   {
    "week": "2026-W42",
-   "codex": 12,
+   "codex": 13,
    "claude": 0,
    "other": 0,
-   "merged": 7
+   "merged": 8
   }
  ],
  "days": {
@@ -220,6 +220,6 @@
   "2026-10-09": 6,
   "2026-10-10": 6,
   "2026-10-11": 21,
-  "2026-10-12": 19
+  "2026-10-12": 21
  }
 }

@@ -14,15 +14,20 @@ We help engineering teams automate their entire delivery process  from code comm
 
 <!-- synaptix-stats:start -->
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/banner.svg?v=277ea420" alt="Synaptix Innovations" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/banner.svg?v=c3475d59" alt="Synaptix Innovations" width="720">
 
-We build delivery pipelines and put AI into software development, review and testing, with every check proven to be able to fail.
+We design cloud infrastructure, build delivery pipelines and put AI into software development, review and testing, with every check proven to be able to fail.
 
 ## What we do
 
-- **Delivery engineering.** CI/CD pipelines as code, GitOps delivery with canary releases and automatic rollback, Terraform on AWS EKS, secret and image scanning, SBOM and signed images.
-- **AI in development, review and testing.** An agent workflow of plan, tests first, pull request and recorded AI review. Mutation-tested checks. One governed memory shared by Claude, Codex, Gemini and Opencode.
-- **Monitoring and alerts.** Prometheus and Grafana dashboards with rollout analysis on the reference platform. On our own services: watchdogs, health and security checks, Actions-budget alerts and daily digests.
+- **Cloud infrastructure.** We design, build and operate infrastructure on AWS, Azure, Google Cloud and Oracle Cloud: landing zones, networking, Kubernetes platforms and infrastructure as code, with security and cost control built in from day one.
+- **CI/CD and platform engineering.** Delivery pipelines as code, GitOps and progressive delivery with automatic rollback, and supply-chain security from the first commit to production.
+- **AI across the delivery lifecycle.** AI-assisted development, automated code review and AI-driven test pipelines, run under engineering controls: every change starts from a failing test, and every check is proven able to fail.
+- **Observability and reliability.** Metrics, logs and alerting that show problems before users feel them, and operations that are ready for incidents.
+
+*Our reference work is on AWS and Oracle Cloud; we deliver on Azure and Google Cloud to the same standard.*
+
+*Engagements: cloud and pipeline audits, platform builds, AI adoption for engineering teams, and ongoing operations.*
 
 ## How a change ships
 
@@ -42,20 +47,20 @@ Borod Bank is our own reference project, not client work: a banking app delivere
 
 ## Proof, not promises
 
-- 845 AI code reviews across 486 merged pull requests
-- 307 of 346 pull requests merged since 1 July 2026 had an AI review first
+- 846 AI code reviews across 487 merged pull requests
+- 308 of 347 pull requests merged since 1 July 2026 had an AI review first
 - Tests first: every change starts from a failing test
 - The checks are tested too: we break them on purpose to prove they can fail
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=2765ee6e" alt="Key figures" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=9ebe09a1" alt="Key figures" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=d1b3ac9c" alt="Delivery health" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=35b0b4f4" alt="Delivery health" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=c84de053" alt="Reviews and merged pull requests per day" width="740">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=35d09c9a" alt="Reviews and merged pull requests per day" width="740">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=52f5bef2" alt="Weekly reviews and merged pull requests" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=ebdb37f2" alt="Weekly reviews and merged pull requests" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/quality.svg?v=06a92f0d" alt="Pull requests by review rounds until approval" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/quality.svg?v=126331b9" alt="Pull requests by review rounds until approval" width="720">
 
 <sub>Counts only; generated from our own review log. Reviews are automated (Codex, with a Claude fallback).</sub>
 
