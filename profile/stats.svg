@@ -2,60 +2,60 @@
 <style>text{font:11px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#57606a}.t{font-size:13px;font-weight:600;fill:#24292f}.g{stroke:#d0d7de}.c{fill:#2da44e}.l{fill:#6e7781}.o{fill:#bf8700}.m{fill:#0969da}@media (prefers-color-scheme:dark){text{fill:#8b949e}.t{fill:#e6edf3}.g{stroke:#30363d}.c{fill:#3fb950}.l{fill:#8b949e}.o{fill:#d29922}.m{fill:#58a6ff}}</style>
 <text class="t" x="44" y="28">Reviews per week</text>
 <line class="g" x1="44" y1="136" x2="704" y2="136"/>
-<text x="38" y="45" text-anchor="end">122</text><text x="38" y="136" text-anchor="end">0</text>
-<rect class="c" x="53.9" y="74.5" width="35.2" height="61.5"/>
-<text x="71.5" y="71.5" text-anchor="middle">75</text>
-<rect class="c" x="108.9" y="90.1" width="35.2" height="45.9"/>
-<text x="126.5" y="87.1" text-anchor="middle">56</text>
-<rect class="c" x="163.9" y="45.8" width="35.2" height="90.2"/>
-<text x="181.5" y="42.8" text-anchor="middle">110</text>
-<rect class="c" x="218.9" y="108.1" width="35.2" height="27.9"/>
-<text x="236.5" y="105.1" text-anchor="middle">34</text>
-<rect class="c" x="273.9" y="83.5" width="35.2" height="52.5"/>
-<text x="291.5" y="80.5" text-anchor="middle">64</text>
-<rect class="c" x="328.9" y="93.4" width="35.2" height="42.6"/>
-<rect class="l" x="328.9" y="92.6" width="35.2" height="0.8"/>
-<text x="346.5" y="89.6" text-anchor="middle">53</text>
-<rect class="c" x="383.9" y="104.0" width="35.2" height="32.0"/>
-<rect class="l" x="383.9" y="90.9" width="35.2" height="13.1"/>
-<text x="401.5" y="87.9" text-anchor="middle">55</text>
-<rect class="c" x="438.9" y="128.6" width="35.2" height="7.4"/>
-<text x="456.5" y="125.6" text-anchor="middle">9</text>
-<rect class="c" x="548.9" y="36.0" width="35.2" height="100.0"/>
-<text x="566.5" y="33.0" text-anchor="middle">122</text>
-<rect class="c" x="603.9" y="107.3" width="35.2" height="28.7"/>
-<rect class="l" x="603.9" y="104.0" width="35.2" height="3.3"/>
-<text x="621.5" y="101.0" text-anchor="middle">39</text>
-<rect class="c" x="658.9" y="134.4" width="35.2" height="1.6"/>
-<text x="676.5" y="131.4" text-anchor="middle">2</text>
+<text x="38" y="52" text-anchor="end">122</text><text x="38" y="136" text-anchor="end">0</text>
+<rect class="c" x="53.9" y="81.9" width="35.2" height="54.1"/>
+<text x="71.5" y="78.9" text-anchor="middle">75</text>
+<rect class="c" x="108.9" y="95.6" width="35.2" height="40.4"/>
+<text x="126.5" y="92.6" text-anchor="middle">56</text>
+<rect class="c" x="163.9" y="56.7" width="35.2" height="79.3"/>
+<text x="181.5" y="53.7" text-anchor="middle">110</text>
+<rect class="c" x="218.9" y="111.5" width="35.2" height="24.5"/>
+<text x="236.5" y="108.5" text-anchor="middle">34</text>
+<rect class="c" x="273.9" y="89.8" width="35.2" height="46.2"/>
+<text x="291.5" y="86.8" text-anchor="middle">64</text>
+<rect class="c" x="328.9" y="98.5" width="35.2" height="37.5"/>
+<rect class="l" x="328.9" y="97.8" width="35.2" height="0.7"/>
+<text x="346.5" y="94.8" text-anchor="middle">53</text>
+<rect class="c" x="383.9" y="107.9" width="35.2" height="28.1"/>
+<rect class="l" x="383.9" y="96.3" width="35.2" height="11.5"/>
+<text x="401.5" y="93.3" text-anchor="middle">55</text>
+<rect class="c" x="438.9" y="129.5" width="35.2" height="6.5"/>
+<text x="456.5" y="126.5" text-anchor="middle">9</text>
+<rect class="c" x="548.9" y="48.0" width="35.2" height="88.0"/>
+<text x="566.5" y="45.0" text-anchor="middle">122</text>
+<rect class="c" x="603.9" y="110.8" width="35.2" height="25.2"/>
+<rect class="l" x="603.9" y="107.9" width="35.2" height="2.9"/>
+<text x="621.5" y="104.9" text-anchor="middle">39</text>
+<rect class="c" x="658.9" y="131.7" width="35.2" height="4.3"/>
+<text x="676.5" y="128.7" text-anchor="middle">6</text>
 <rect class="o" x="634" y="19" width="9" height="9"/><text x="647" y="28">Other</text>
 <rect class="l" x="557" y="19" width="9" height="9"/><text x="570" y="28">Claude</text>
 <rect class="c" x="487" y="19" width="9" height="9"/><text x="500" y="28">Codex</text>
 <text class="t" x="44" y="178">Pull requests merged per week</text>
 <line class="g" x1="44" y1="276" x2="704" y2="276"/>
-<text x="38" y="195" text-anchor="end">63</text><text x="38" y="276" text-anchor="end">0</text>
-<rect class="m" x="53.9" y="220.3" width="35.2" height="55.7"/>
-<text x="71.5" y="217.3" text-anchor="middle">39</text>
-<rect class="m" x="108.9" y="246.0" width="35.2" height="30.0"/>
-<text x="126.5" y="243.0" text-anchor="middle">21</text>
-<rect class="m" x="163.9" y="206.0" width="35.2" height="70.0"/>
-<text x="181.5" y="203.0" text-anchor="middle">49</text>
-<rect class="m" x="218.9" y="260.3" width="35.2" height="15.7"/>
-<text x="236.5" y="257.3" text-anchor="middle">11</text>
-<rect class="m" x="273.9" y="237.4" width="35.2" height="38.6"/>
-<text x="291.5" y="234.4" text-anchor="middle">27</text>
-<rect class="m" x="328.9" y="263.1" width="35.2" height="12.9"/>
-<text x="346.5" y="260.1" text-anchor="middle">9</text>
-<rect class="m" x="383.9" y="236.0" width="35.2" height="40.0"/>
-<text x="401.5" y="233.0" text-anchor="middle">28</text>
-<rect class="m" x="438.9" y="273.1" width="35.2" height="2.9"/>
-<text x="456.5" y="270.1" text-anchor="middle">2</text>
-<rect class="m" x="548.9" y="186.0" width="35.2" height="90.0"/>
-<text x="566.5" y="183.0" text-anchor="middle">63</text>
-<rect class="m" x="603.9" y="260.3" width="35.2" height="15.7"/>
-<text x="621.5" y="257.3" text-anchor="middle">11</text>
-<rect class="m" x="658.9" y="274.6" width="35.2" height="1.4"/>
-<text x="676.5" y="271.6" text-anchor="middle">1</text>
+<text x="38" y="200" text-anchor="end">63</text><text x="38" y="276" text-anchor="end">0</text>
+<rect class="m" x="53.9" y="227.0" width="35.2" height="49.0"/>
+<text x="71.5" y="224.0" text-anchor="middle">39</text>
+<rect class="m" x="108.9" y="249.6" width="35.2" height="26.4"/>
+<text x="126.5" y="246.6" text-anchor="middle">21</text>
+<rect class="m" x="163.9" y="214.4" width="35.2" height="61.6"/>
+<text x="181.5" y="211.4" text-anchor="middle">49</text>
+<rect class="m" x="218.9" y="262.2" width="35.2" height="13.8"/>
+<text x="236.5" y="259.2" text-anchor="middle">11</text>
+<rect class="m" x="273.9" y="242.1" width="35.2" height="33.9"/>
+<text x="291.5" y="239.1" text-anchor="middle">27</text>
+<rect class="m" x="328.9" y="264.7" width="35.2" height="11.3"/>
+<text x="346.5" y="261.7" text-anchor="middle">9</text>
+<rect class="m" x="383.9" y="240.8" width="35.2" height="35.2"/>
+<text x="401.5" y="237.8" text-anchor="middle">28</text>
+<rect class="m" x="438.9" y="273.5" width="35.2" height="2.5"/>
+<text x="456.5" y="270.5" text-anchor="middle">2</text>
+<rect class="m" x="548.9" y="196.8" width="35.2" height="79.2"/>
+<text x="566.5" y="193.8" text-anchor="middle">63</text>
+<rect class="m" x="603.9" y="262.2" width="35.2" height="13.8"/>
+<text x="621.5" y="259.2" text-anchor="middle">11</text>
+<rect class="m" x="658.9" y="271.0" width="35.2" height="5.0"/>
+<text x="676.5" y="268.0" text-anchor="middle">4</text>
 <text x="126.5" y="310" text-anchor="middle">2026 W32</text>
 <text x="236.5" y="310" text-anchor="middle">2026 W34</text>
 <text x="346.5" y="310" text-anchor="middle">2026 W36</text>

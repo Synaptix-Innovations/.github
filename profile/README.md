@@ -14,20 +14,31 @@ We help engineering teams automate their entire delivery process  from code comm
 
 <!-- synaptix-stats:start -->
 
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/banner.svg?v=34471a76" alt="Synaptix Innovations" width="720">
+
+## Proof, not promises
+
+- 839 AI code reviews across 483 merged pull requests
+- Tests first: every change starts from a failing test
+- Each pull request gets an AI review before it merges
+- The checks are tested too: we break them on purpose to prove they can fail
+
 ## Delivery activity
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=d979f350" alt="Key figures" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=6fb2e2be" alt="Key figures" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=128118cf" alt="Reviews and merged pull requests per day" width="740">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=b8acb65b" alt="Reviews and merged pull requests per day" width="740">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=76a9e4c5" alt="Weekly reviews and merged pull requests" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=d63a5246" alt="Weekly reviews and merged pull requests" width="720">
+
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/quality.svg?v=71023336" alt="Pull requests by review rounds until approval" width="720">
 
 | All time | |
 |---|---:|
-| Reviews | 835 |
-| Codex reviews | 789 |
+| Reviews | 839 |
+| Codex reviews | 793 |
 | Claude reviews | 23 |
-| PRs merged | 480 |
+| PRs merged | 483 |
 | Median rounds to approval | 1 |
 
 ## How we work
