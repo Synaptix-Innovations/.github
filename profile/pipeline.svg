@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="148" viewBox="0 0 720 148" role="img" aria-label="How a change ships">
+<style>text{font:12px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#24292f}.t{font-size:13px;font-weight:600}.s{fill:#57606a;font-size:11px}.box{fill:none;stroke:#d0d7de}.key{stroke:#2da44e}.ar{fill:none;stroke:#57606a;stroke-width:1.4}.hd{fill:#57606a}.loop{fill:none;stroke:#bf8700;stroke-width:1.4}.lh{fill:#bf8700}.ll{fill:#9a6700;font-size:11px}@media (prefers-color-scheme:dark){text{fill:#e6edf3}.s{fill:#8b949e}.box{stroke:#30363d}.key{stroke:#3fb950}.ar{stroke:#8b949e}.hd{fill:#8b949e}.loop{stroke:#d29922}.lh{fill:#d29922}.ll{fill:#d29922}}</style>
+<defs><marker id="a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path class="hd" d="M0 0L8 4L0 8z"/></marker><marker id="b" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path class="lh" d="M0 0L8 4L0 8z"/></marker></defs>
+<text class="t" x="0" y="16">How a change ships</text>
+<g data-stage="plan" transform="translate(22.0,40)"><rect class="box" width="104.0" height="38" rx="8"/><text x="52.0" y="24" text-anchor="middle">Issue and plan</text></g>
+<path class="ar" d="M129.0 59 H150.0" marker-end="url(#a)"/>
+<g data-stage="tests" transform="translate(152.0,40)"><rect class="box" width="86.0" height="38" rx="8"/><text x="43.0" y="24" text-anchor="middle">Tests first</text></g>
+<path class="ar" d="M241.0 59 H262.0" marker-end="url(#a)"/>
+<g data-stage="pr" transform="translate(264.0,40)"><rect class="box" width="92.0" height="38" rx="8"/><text x="46.0" y="24" text-anchor="middle">Pull request</text></g>
+<path class="ar" d="M359.0 59 H380.0" marker-end="url(#a)"/>
+<g data-stage="review" transform="translate(382.0,40)"><rect class="box key" width="74.0" height="38" rx="8"/><text x="37.0" y="24" text-anchor="middle">AI review</text></g>
+<path class="ar" d="M459.0 59 H480.0" marker-end="url(#a)"/>
+<g data-stage="merge" transform="translate(482.0,40)"><rect class="box" width="50.0" height="38" rx="8"/><text x="25.0" y="24" text-anchor="middle">Merge</text></g>
+<path class="ar" d="M535.0 59 H556.0" marker-end="url(#a)"/>
+<g data-stage="deploy" transform="translate(558.0,40)"><rect class="box" width="140.0" height="38" rx="8"/><text x="70.0" y="24" text-anchor="middle">Deploy with rollback</text></g>
+<g data-loop="changes"><path class="loop" d="M419.0 80 V110 H195.0 V82" marker-end="url(#b)"/><text class="ll" x="307.0" y="126" text-anchor="middle">changes requested</text></g>
+</svg>

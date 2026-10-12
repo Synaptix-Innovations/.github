@@ -26,8 +26,8 @@
 <rect class="c" x="603.9" y="110.8" width="35.2" height="25.2"/>
 <rect class="l" x="603.9" y="107.9" width="35.2" height="2.9"/>
 <text x="621.5" y="104.9" text-anchor="middle">39</text>
-<rect class="c" x="658.9" y="131.7" width="35.2" height="4.3"/>
-<text x="676.5" y="128.7" text-anchor="middle">6</text>
+<rect class="c" x="658.9" y="129.5" width="35.2" height="6.5"/>
+<text x="676.5" y="126.5" text-anchor="middle">9</text>
 <rect class="o" x="634" y="19" width="9" height="9"/><text x="647" y="28">Other</text>
 <rect class="l" x="557" y="19" width="9" height="9"/><text x="570" y="28">Claude</text>
 <rect class="c" x="487" y="19" width="9" height="9"/><text x="500" y="28">Codex</text>
@@ -54,8 +54,8 @@
 <text x="566.5" y="193.8" text-anchor="middle">63</text>
 <rect class="m" x="603.9" y="262.2" width="35.2" height="13.8"/>
 <text x="621.5" y="259.2" text-anchor="middle">11</text>
-<rect class="m" x="658.9" y="271.0" width="35.2" height="5.0"/>
-<text x="676.5" y="268.0" text-anchor="middle">4</text>
+<rect class="m" x="658.9" y="269.7" width="35.2" height="6.3"/>
+<text x="676.5" y="266.7" text-anchor="middle">5</text>
 <text x="126.5" y="310" text-anchor="middle">2026 W32</text>
 <text x="236.5" y="310" text-anchor="middle">2026 W34</text>
 <text x="346.5" y="310" text-anchor="middle">2026 W36</text>
