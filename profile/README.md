@@ -16,16 +16,33 @@ We help engineering teams automate their entire delivery process  from code comm
 
 ## Delivery activity
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=831a71a5" alt="Weekly reviews and merged pull requests" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=d979f350" alt="Key figures" width="720">
+
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=128118cf" alt="Reviews and merged pull requests per day" width="740">
+
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=76a9e4c5" alt="Weekly reviews and merged pull requests" width="720">
 
 | All time | |
 |---|---:|
-| Reviews | 833 |
-| Codex reviews | 787 |
+| Reviews | 835 |
+| Codex reviews | 789 |
 | Claude reviews | 23 |
-| PRs merged | 479 |
+| PRs merged | 480 |
 | Median rounds to approval | 1 |
 
-<sub>Counts only; generated from our own review log.</sub>
+## How we work
+
+```mermaid
+flowchart LR
+  A[Idea] --> B[Issue and plan]
+  B --> C[Tests first]
+  C --> D[Pull request]
+  D --> E[AI review]
+  E -- changes requested --> C
+  E -- approved --> F[Merge]
+  F --> G[Deploy]
+```
+
+<sub>Counts only; generated from our own review log. Reviews are automated (Codex, with a Claude fallback).</sub>
 
 <!-- synaptix-stats:end -->
