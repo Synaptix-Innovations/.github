@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="150" viewBox="0 0 720 150" role="img" aria-label="Delivery health">
+<style>text{font:11px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#57606a}.t{font-size:13px;font-weight:600;fill:#24292f}.v{font-size:28px;font-weight:600;fill:#24292f}.l{font-size:12px;fill:#24292f}.card{fill:none;stroke:#d0d7de}.tr{fill:#d0d7de}.bf{fill:#2da44e}@media (prefers-color-scheme:dark){text{fill:#8b949e}.t,.v,.l{fill:#e6edf3}.card{stroke:#30363d}.tr{fill:#30363d}.bf{fill:#3fb950}}</style>
+<text class="t" x="0" y="14">Delivery health</text>
+<g data-dh="mergetime"><rect class="card" x="0.5" y="26.5" width="167" height="111" rx="8"/><text class="v" x="16" y="70">1 h</text><text class="l" x="16" y="90">Median time to merge</text><text x="16" y="106">open to merge, 30 days</text></g>
+<g data-dh="mergerate"><rect class="card" x="184.5" y="26.5" width="167" height="111" rx="8"/><text class="v" x="200" y="70">19</text><text class="l" x="200" y="90">PRs merged per week</text><text x="200" y="106">average, last 4 full weeks</text></g>
+<g data-dh="passrate"><rect class="card" x="368.5" y="26.5" width="167" height="111" rx="8"/><text class="v" x="384" y="70">93%</text><text class="l" x="384" y="90">CI pass rate</text><text x="384" y="106">30 days, 205 PR runs</text><rect class="tr" x="384" y="122" width="135" height="4" rx="2"/><rect class="bf" x="384" y="122" width="125.5" height="4" rx="2"/></g>
+<g data-dh="rounds"><rect class="card" x="552.5" y="26.5" width="167" height="111" rx="8"/><text class="v" x="568" y="70">1</text><text class="l" x="568" y="90">Median review rounds</text><text x="568" y="106">until approval, all time</text></g>
+</svg>
