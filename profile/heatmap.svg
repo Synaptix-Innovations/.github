@@ -339,7 +339,7 @@
 <rect class="l1" x="628" y="73" width="10" height="10" rx="2"><title>2026-09-03: 2</title></rect>
 <rect class="l1" x="628" y="86" width="10" height="10" rx="2"><title>2026-09-04: 1</title></rect>
 <rect class="l2" x="628" y="99" width="10" height="10" rx="2"><title>2026-09-05: 6</title></rect>
-<rect class="l3" x="628" y="112" width="10" height="10" rx="2"><title>2026-09-06: 10</title></rect>
+<rect class="l2" x="628" y="112" width="10" height="10" rx="2"><title>2026-09-06: 10</title></rect>
 <text x="641" y="27">Sep</text>
 <rect class="l2" x="641" y="34" width="10" height="10" rx="2"><title>2026-09-07: 7</title></rect>
 <rect class="l3" x="641" y="47" width="10" height="10" rx="2"><title>2026-09-08: 14</title></rect>
@@ -378,7 +378,7 @@
 <rect class="l2" x="693" y="99" width="10" height="10" rx="2"><title>2026-10-10: 6</title></rect>
 <rect class="l4" x="693" y="112" width="10" height="10" rx="2"><title>2026-10-11: 21</title></rect>
 <rect class="l4" x="706" y="34" width="10" height="10" rx="2"><title>2026-10-12: 21</title></rect>
-<rect class="l1" x="706" y="47" width="10" height="10" rx="2"><title>2026-10-13: 5</title></rect>
+<rect class="l4" x="706" y="47" width="10" height="10" rx="2"><title>2026-10-13: 34</title></rect>
 <text x="0" y="43">Mon</text>
 <text x="0" y="69">Wed</text>
 <text x="0" y="95">Fri</text>
