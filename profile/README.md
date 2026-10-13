@@ -1,6 +1,6 @@
 <!-- synaptix-stats:start -->
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/banner.svg?v=c3475d59" alt="Synaptix Innovations" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/banner.svg?v=f006238e" alt="Synaptix Innovations" width="720">
 
 We design cloud infrastructure, build delivery pipelines and put AI into software development, review and testing, with every check proven to be able to fail.
 
@@ -17,7 +17,7 @@ We design cloud infrastructure, build delivery pipelines and put AI into softwar
 
 ## How a change ships
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/pipeline.svg?v=7bb44f79" alt="How a change ships: plan, tests first, pull request, AI review, merge, deploy with rollback" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/pipeline.svg?v=e9104d53" alt="How a change ships: plan, tests first, pull request, AI review, merge, deploy with rollback" width="720">
 
 ## Reference platform
 
@@ -33,20 +33,20 @@ Borod Bank is our own reference project, not client work: a banking app delivere
 
 ## Proof, not promises
 
-- 846 AI code reviews across 487 merged pull requests
-- 308 of 347 pull requests merged since 1 July 2026 had an AI review first
+- 849 AI code reviews across 489 merged pull requests
+- 310 of 349 pull requests merged since 1 July 2026 had an AI review first
 - Tests first: every change starts from a failing test
 - The checks are tested too: we break them on purpose to prove they can fail
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=9ebe09a1" alt="Key figures" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=c39ae04f" alt="Key figures" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=35b0b4f4" alt="Delivery health" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=d1b3ac9c" alt="Delivery health" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=35d09c9a" alt="Reviews and merged pull requests per day" width="740">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=3be0435a" alt="Reviews and merged pull requests per day" width="740">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=ebdb37f2" alt="Weekly reviews and merged pull requests" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=1697f126" alt="Weekly reviews and merged pull requests" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/quality.svg?v=126331b9" alt="Pull requests by review rounds until approval" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/quality.svg?v=fe66c959" alt="Pull requests by review rounds until approval" width="720">
 
 <sub>Counts only; generated from our own review log. Reviews are automated (Codex, with a Claude fallback).</sub>
 
