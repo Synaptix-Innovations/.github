@@ -4,9 +4,9 @@
 <rect width="720" height="150" rx="10" fill="url(#g)"/><rect x="0" y="0" width="5" height="150" rx="2" fill="#3fb950"/>
 <text x="28" y="44" font-size="26" font-weight="700" fill="#ffffff">Synaptix Innovations</text>
 <text x="28" y="70" font-size="15" fill="#7ee787">Cloud infrastructure, CI/CD and AI for engineering teams.</text>
-<text class="n" x="28" y="112">880</text><text class="l" x="28" y="132">AI code reviews</text>
-<text class="n" x="200" y="112">509</text><text class="l" x="200" y="132">pull requests merged</text>
-<text class="n" x="372" y="112">64%</text><text class="l" x="372" y="132">approved in the first round</text>
+<text class="n" x="28" y="112">893</text><text class="l" x="28" y="132">AI code reviews</text>
+<text class="n" x="200" y="112">514</text><text class="l" x="200" y="132">pull requests merged</text>
+<text class="n" x="372" y="112">65%</text><text class="l" x="372" y="132">approved in the first round</text>
 <rect x="560" y="92.0" width="11" height="36.0" rx="2" fill="#3fb950" opacity="0.79"/>
 <rect x="573" y="100.1" width="11" height="27.9" rx="2" fill="#3fb950" opacity="0.70"/>
 <rect x="586" y="77.1" width="11" height="50.9" rx="2" fill="#3fb950" opacity="0.95"/>
@@ -18,6 +18,6 @@
 <rect x="664" y="126.0" width="11" height="2.0" rx="2" fill="#3fb950" opacity="0.45"/>
 <rect x="677" y="72.0" width="11" height="56.0" rx="2" fill="#3fb950" opacity="1.00"/>
 <rect x="690" y="107.4" width="11" height="20.6" rx="2" fill="#3fb950" opacity="0.63"/>
-<rect x="703" y="104.0" width="11" height="24.0" rx="2" fill="#3fb950" opacity="0.66"/>
+<rect x="703" y="98.4" width="11" height="29.6" rx="2" fill="#3fb950" opacity="0.72"/>
 <text class="l" x="560" y="144">reviews per week, last 12</text>
 </svg>

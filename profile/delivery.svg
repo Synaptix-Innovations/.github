@@ -3,6 +3,6 @@
 <text class="t" x="0" y="14">Delivery health</text>
 <g data-dh="mergetime"><rect class="card" x="0.5" y="26.5" width="167" height="111" rx="8"/><text class="v" x="16" y="70">1 h</text><text class="l" x="16" y="90">Median time to merge</text><text x="16" y="106">open to merge, 30 days</text></g>
 <g data-dh="mergerate"><rect class="card" x="184.5" y="26.5" width="167" height="111" rx="8"/><text class="v" x="200" y="70">19</text><text class="l" x="200" y="90">PRs merged per week</text><text x="200" y="106">average, last 4 full weeks</text></g>
-<g data-dh="passrate"><rect class="card" x="368.5" y="26.5" width="167" height="111" rx="8"/><text class="v" x="384" y="70">90%</text><text class="l" x="384" y="90">CI pass rate</text><text x="384" y="106">30 days, 226 PR runs</text><rect class="tr" x="384" y="122" width="135" height="4" rx="2"/><rect class="bf" x="384" y="122" width="121.5" height="4" rx="2"/></g>
+<g data-dh="passrate"><rect class="card" x="368.5" y="26.5" width="167" height="111" rx="8"/><text class="v" x="384" y="70">93%</text><text class="l" x="384" y="90">CI pass rate</text><text x="384" y="106">30 days, 234 PR runs</text><rect class="tr" x="384" y="122" width="135" height="4" rx="2"/><rect class="bf" x="384" y="122" width="125.5" height="4" rx="2"/></g>
 <g data-dh="rounds"><rect class="card" x="552.5" y="26.5" width="167" height="111" rx="8"/><text class="v" x="568" y="70">1</text><text class="l" x="568" y="90">Median review rounds</text><text x="568" y="106">until approval, all time</text></g>
 </svg>
