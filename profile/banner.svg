@@ -4,20 +4,20 @@
 <rect width="720" height="150" rx="10" fill="url(#g)"/><rect x="0" y="0" width="5" height="150" rx="2" fill="#3fb950"/>
 <text x="28" y="44" font-size="26" font-weight="700" fill="#ffffff">Synaptix Innovations</text>
 <text x="28" y="70" font-size="15" fill="#7ee787">Cloud infrastructure, CI/CD and AI for engineering teams.</text>
-<text class="n" x="28" y="112">896</text><text class="l" x="28" y="132">AI code reviews</text>
-<text class="n" x="200" y="112">516</text><text class="l" x="200" y="132">pull requests merged</text>
+<text class="n" x="28" y="112">897</text><text class="l" x="28" y="132">AI code reviews</text>
+<text class="n" x="200" y="112">517</text><text class="l" x="200" y="132">pull requests merged</text>
 <text class="n" x="372" y="112">65%</text><text class="l" x="372" y="132">approved in the first round</text>
-<rect x="560" y="92.0" width="11" height="36.0" rx="2" fill="#3fb950" opacity="0.79"/>
-<rect x="573" y="100.1" width="11" height="27.9" rx="2" fill="#3fb950" opacity="0.70"/>
-<rect x="586" y="77.1" width="11" height="50.9" rx="2" fill="#3fb950" opacity="0.95"/>
-<rect x="599" y="109.5" width="11" height="18.5" rx="2" fill="#3fb950" opacity="0.60"/>
-<rect x="612" y="96.7" width="11" height="31.3" rx="2" fill="#3fb950" opacity="0.74"/>
-<rect x="625" y="101.4" width="11" height="26.6" rx="2" fill="#3fb950" opacity="0.69"/>
-<rect x="638" y="100.6" width="11" height="27.4" rx="2" fill="#3fb950" opacity="0.70"/>
-<rect x="651" y="120.2" width="11" height="7.8" rx="2" fill="#3fb950" opacity="0.49"/>
-<rect x="664" y="126.0" width="11" height="2.0" rx="2" fill="#3fb950" opacity="0.45"/>
-<rect x="677" y="72.0" width="11" height="56.0" rx="2" fill="#3fb950" opacity="1.00"/>
-<rect x="690" y="107.4" width="11" height="20.6" rx="2" fill="#3fb950" opacity="0.63"/>
-<rect x="703" y="97.1" width="11" height="30.9" rx="2" fill="#3fb950" opacity="0.73"/>
+<rect x="560" y="100.1" width="11" height="27.9" rx="2" fill="#3fb950" opacity="0.70"/>
+<rect x="573" y="77.1" width="11" height="50.9" rx="2" fill="#3fb950" opacity="0.95"/>
+<rect x="586" y="109.5" width="11" height="18.5" rx="2" fill="#3fb950" opacity="0.60"/>
+<rect x="599" y="96.7" width="11" height="31.3" rx="2" fill="#3fb950" opacity="0.74"/>
+<rect x="612" y="101.4" width="11" height="26.6" rx="2" fill="#3fb950" opacity="0.69"/>
+<rect x="625" y="100.6" width="11" height="27.4" rx="2" fill="#3fb950" opacity="0.70"/>
+<rect x="638" y="120.2" width="11" height="7.8" rx="2" fill="#3fb950" opacity="0.49"/>
+<rect x="651" y="126.0" width="11" height="2.0" rx="2" fill="#3fb950" opacity="0.45"/>
+<rect x="664" y="72.0" width="11" height="56.0" rx="2" fill="#3fb950" opacity="1.00"/>
+<rect x="677" y="107.4" width="11" height="20.6" rx="2" fill="#3fb950" opacity="0.63"/>
+<rect x="690" y="97.1" width="11" height="30.9" rx="2" fill="#3fb950" opacity="0.73"/>
+<rect x="703" y="123.6" width="11" height="4.4" rx="2" fill="#3fb950" opacity="0.45"/>
 <text class="l" x="560" y="144">reviews per week, last 12</text>
 </svg>

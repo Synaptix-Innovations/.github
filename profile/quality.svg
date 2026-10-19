@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="176" viewBox="0 0 720 176" role="img" aria-label="Pull requests by review rounds until approval">
 <style>text{font:11px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#57606a}.t{font-size:13px;font-weight:600;fill:#24292f}.v{font-size:12px;fill:#24292f}.b{fill:#2da44e}.big{font-size:30px;font-weight:600;fill:#24292f}.card{fill:none;stroke:#d0d7de}@media (prefers-color-scheme:dark){text{fill:#8b949e}.t{fill:#e6edf3}.v{fill:#e6edf3}.b{fill:#3fb950}.big{fill:#e6edf3}.card{stroke:#30363d}}</style>
 <text class="t" x="0" y="16">Pull requests by review rounds until approval</text>
-<g data-q="r1"><text x="0" y="46">1 round</text><rect class="b" x="70" y="34" width="380.0" height="16" rx="3"/><text class="v" x="456.0" y="46">205</text></g>
-<g data-q="r2"><text x="0" y="72">2 rounds</text><rect class="b" x="70" y="60" width="92.7" height="16" rx="3"/><text class="v" x="168.7" y="72">50</text></g>
-<g data-q="r3"><text x="0" y="98">3 rounds</text><rect class="b" x="70" y="86" width="29.7" height="16" rx="3"/><text class="v" x="105.7" y="98">16</text></g>
-<g data-q="r4"><text x="0" y="124">4 rounds</text><rect class="b" x="70" y="112" width="29.7" height="16" rx="3"/><text class="v" x="105.7" y="124">16</text></g>
-<g data-q="r5plus"><text x="0" y="150">5+ rounds</text><rect class="b" x="70" y="138" width="53.8" height="16" rx="3"/><text class="v" x="129.8" y="150">29</text></g>
+<g data-q="r1"><text x="0" y="46">1 round</text><rect class="b" x="70" y="34" width="380.0" height="16" rx="3"/><text class="v" x="456.0" y="46">206</text></g>
+<g data-q="r2"><text x="0" y="72">2 rounds</text><rect class="b" x="70" y="60" width="92.2" height="16" rx="3"/><text class="v" x="168.2" y="72">50</text></g>
+<g data-q="r3"><text x="0" y="98">3 rounds</text><rect class="b" x="70" y="86" width="29.5" height="16" rx="3"/><text class="v" x="105.5" y="98">16</text></g>
+<g data-q="r4"><text x="0" y="124">4 rounds</text><rect class="b" x="70" y="112" width="29.5" height="16" rx="3"/><text class="v" x="105.5" y="124">16</text></g>
+<g data-q="r5plus"><text x="0" y="150">5+ rounds</text><rect class="b" x="70" y="138" width="53.5" height="16" rx="3"/><text class="v" x="129.5" y="150">29</text></g>
 <rect class="card" x="520.5" y="30.5" width="199" height="130" rx="8"/>
 <g data-q="changes_pct"><text class="big" x="536" y="76">53%</text><text x="536" y="96">of the reviewer's verdicts</text><text x="536" y="110">asked for changes</text></g>
 <g data-q="never"><text class="v" x="536" y="140">24</text><text x="566" y="140">never approved</text></g>
