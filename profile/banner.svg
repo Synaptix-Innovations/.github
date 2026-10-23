@@ -5,7 +5,7 @@
 <text x="28" y="44" font-size="26" font-weight="700" fill="#ffffff">Synaptix Innovations</text>
 <text x="28" y="70" font-size="15" fill="#7ee787">Cloud infrastructure, CI/CD and AI for engineering teams.</text>
 <text class="n" x="28" y="112">901</text><text class="l" x="28" y="132">AI code reviews</text>
-<text class="n" x="200" y="112">520</text><text class="l" x="200" y="132">pull requests merged</text>
+<text class="n" x="200" y="112">523</text><text class="l" x="200" y="132">pull requests merged</text>
 <text class="n" x="372" y="112">65%</text><text class="l" x="372" y="132">approved in the first round</text>
 <rect x="560" y="100.1" width="11" height="27.9" rx="2" fill="#3fb950" opacity="0.70"/>
 <rect x="573" y="77.1" width="11" height="50.9" rx="2" fill="#3fb950" opacity="0.95"/>
