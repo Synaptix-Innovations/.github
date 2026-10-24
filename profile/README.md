@@ -38,11 +38,11 @@ Borod Bank is our own reference project, not client work: a banking app delivere
 - Tests first: every change starts from a failing test
 - The checks are tested too: we break them on purpose to prove they can fail
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=097dfe68" alt="Key figures" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=187a6ba5" alt="Key figures" width="720">
 
 <img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=464d392d" alt="Delivery health" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=9ad80af1" alt="Reviews and merged pull requests per day" width="740">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=de33dd97" alt="Reviews and merged pull requests per day" width="740">
 
 <img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=a8bb710a" alt="Weekly reviews and merged pull requests" width="720">
 
