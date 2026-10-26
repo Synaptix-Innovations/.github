@@ -10,8 +10,8 @@
   "first_round_pct": 65
  },
  "windows": {
-  "reviews7": 5,
-  "merged7": 7,
+  "reviews7": 4,
+  "merged7": 6,
   "merge_hours_median_30d": 0.8
  },
  "rounds": {
@@ -30,18 +30,11 @@
   "pct": 87
  },
  "delivery": {
-  "merges_per_week_4w": 27.75,
+  "merges_per_week_4w": 29.5,
   "ci_pass_rate_30d": 92,
-  "ci_runs_30d": 248
+  "ci_runs_30d": 249
  },
  "weeks": [
-  {
-   "week": "2026-W32",
-   "codex": 56,
-   "claude": 0,
-   "other": 0,
-   "merged": 21
-  },
   {
    "week": "2026-W33",
    "codex": 110,
@@ -118,6 +111,13 @@
    "claude": 5,
    "other": 0,
    "merged": 7
+  },
+  {
+   "week": "2026-W44",
+   "codex": 0,
+   "claude": 0,
+   "other": 0,
+   "merged": 0
   }
  ],
  "days": {
