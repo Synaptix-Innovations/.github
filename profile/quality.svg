@@ -8,5 +8,5 @@
 <g data-q="r5plus"><text x="0" y="150">5+ rounds</text><rect class="b" x="70" y="138" width="52.7" height="16" rx="3"/><text class="v" x="128.7" y="150">29</text></g>
 <rect class="card" x="520.5" y="30.5" width="199" height="130" rx="8"/>
 <g data-q="changes_pct"><text class="big" x="536" y="76">53%</text><text x="536" y="96">of the reviewer's verdicts</text><text x="536" y="110">asked for changes</text></g>
-<g data-q="never"><text class="v" x="536" y="140">24</text><text x="566" y="140">never approved</text></g>
+<g data-q="never"><text class="v" x="536" y="140">25</text><text x="566" y="140">never approved</text></g>
 </svg>
