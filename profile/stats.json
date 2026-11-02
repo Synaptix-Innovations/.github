@@ -30,18 +30,11 @@
   "pct": 87
  },
  "delivery": {
-  "merges_per_week_4w": 29.5,
-  "ci_pass_rate_30d": 89,
-  "ci_runs_30d": 188
+  "merges_per_week_4w": 14.5,
+  "ci_pass_rate_30d": 88,
+  "ci_runs_30d": 165
  },
  "weeks": [
-  {
-   "week": "2026-W33",
-   "codex": 110,
-   "claude": 0,
-   "other": 0,
-   "merged": 49
-  },
   {
    "week": "2026-W34",
    "codex": 34,
@@ -118,6 +111,13 @@
    "claude": 0,
    "other": 0,
    "merged": 3
+  },
+  {
+   "week": "2026-W45",
+   "codex": 0,
+   "claude": 0,
+   "other": 0,
+   "merged": 0
   }
  ],
  "days": {
