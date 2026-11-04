@@ -1,6 +1,6 @@
 <!-- synaptix-stats:start -->
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/banner.svg?v=91b71e2c" alt="Synaptix Innovations" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/banner.svg?v=ace38c80" alt="Synaptix Innovations" width="720">
 
 We design cloud infrastructure, build delivery pipelines and put AI into software development, review and testing, with every check proven to be able to fail.
 
@@ -33,20 +33,20 @@ Borod Bank is our own reference project, not client work: a banking app delivere
 
 ## Proof, not promises
 
-- 906 AI code reviews across 530 merged pull requests
-- 340 of 390 pull requests merged since 1 July 2026 had an AI review first
+- 910 AI code reviews across 534 merged pull requests
+- 344 of 394 pull requests merged since 1 July 2026 had an AI review first
 - Tests first: every change starts from a failing test
 - The checks are tested too: we break them on purpose to prove they can fail
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=fe8c23c3" alt="Key figures" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=e41cb87a" alt="Key figures" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=ddbb36cb" alt="Delivery health" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=22e8c946" alt="Delivery health" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=31d54050" alt="Reviews and merged pull requests per day" width="740">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=9c7d6972" alt="Reviews and merged pull requests per day" width="740">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=8b52871b" alt="Weekly reviews and merged pull requests" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=c1f82681" alt="Weekly reviews and merged pull requests" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/quality.svg?v=e5347187" alt="Pull requests by review rounds until approval" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/quality.svg?v=e7e88a1b" alt="Pull requests by review rounds until approval" width="720">
 
 <sub>Counts only; generated from our own review log. Reviews are automated (Codex, with a Claude fallback).</sub>
 
