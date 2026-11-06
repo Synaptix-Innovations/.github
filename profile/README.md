@@ -40,9 +40,9 @@ Borod Bank is our own reference project, not client work: a banking app delivere
 
 <img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=1be579d8" alt="Key figures" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=6f624a99" alt="Delivery health" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=84da2810" alt="Delivery health" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=edf1f99a" alt="Reviews and merged pull requests per day" width="740">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=efef9a95" alt="Reviews and merged pull requests per day" width="740">
 
 <img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=be322ab5" alt="Weekly reviews and merged pull requests" width="720">
 
