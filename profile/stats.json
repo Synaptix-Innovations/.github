@@ -32,7 +32,7 @@
  "delivery": {
   "merges_per_week_4w": 14.5,
   "ci_pass_rate_30d": 90,
-  "ci_runs_30d": 149
+  "ci_runs_30d": 144
  },
  "weeks": [
   {
