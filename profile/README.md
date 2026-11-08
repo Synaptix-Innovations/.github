@@ -1,19 +1,31 @@
 <!-- synaptix-stats:start -->
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/banner.svg?v=f9fa3b1e" alt="Synaptix Innovations" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/banner.svg?v=498eb1f8" alt="Synaptix Innovations" width="720">
 
-We design cloud infrastructure, build delivery pipelines and put AI into software development, review and testing, with every check proven to be able to fail.
+We build delivery pipelines and infrastructure as code, and we bring AI into development, review and testing under the same engineering controls.
 
-## What we do
+## Delivery engineering
 
-- **Cloud infrastructure.** We design, build and operate infrastructure on AWS, Azure, Google Cloud and Oracle Cloud: landing zones, networking, Kubernetes platforms and infrastructure as code, with security and cost control built in from day one.
-- **CI/CD and platform engineering.** Delivery pipelines as code, GitOps and progressive delivery with automatic rollback, and supply-chain security from the first commit to production.
-- **AI across the delivery lifecycle.** AI-assisted development, automated code review and AI-driven test pipelines, run under engineering controls: every change starts from a failing test, and every check is proven able to fail.
-- **Observability and reliability.** Metrics, logs and alerting that show problems before users feel them, and operations that are ready for incidents.
+- **Pipelines as code.** GitHub Actions and Jenkins pipelines (20 stages on our reference platform), GitOps with ArgoCD, and canary releases with Argo Rollouts (10% → 50% → 100%) that roll back automatically when the error rate reaches 5%.
+- **Infrastructure as code.** Terraform for AWS: EKS, RDS, KMS, EFS and the network around them. Our own server's configuration is versioned too, and every change to it goes through the same pull-request review.
+- **Security in the pipeline.** Secret scanning, image and IaC scanning, SBOM generation, image signing and attestation with Cosign, and admission policies that block unsafe workloads.
+- **Product: [startup-pipeline-template](https://github.com/Synaptix-Innovations/startup-pipeline-template).** A delivery pipeline that runs on free tiers: CI, a review gate that fails closed, a gated deploy and a rollback that is drilled, not just documented.
 
-*Our reference work is on AWS and Oracle Cloud; we deliver on Azure and Google Cloud to the same standard.*
+Clouds: **AWS** (EKS, RDS, KMS, Terraform; see the reference projects), and **Azure and GCP**, on which projects are in progress.
 
-*Engagements: cloud and pipeline audits, platform builds, AI adoption for engineering teams, and ongoing operations.*
+## AI adoption
+
+- **Development.** Our AI agents follow one written workflow: issue, plan, a failing test first, pull request, review, verified close. Rules and gates decide what is finished, not the agent.
+- **Review.** Pull requests go to an AI reviewer: Codex first, Claude when Codex is unavailable. 368 of 424 pull requests merged since 1 July 2026 had an AI review before merging. Across our whole history it is 394 of 564, because our earliest projects predate the review gate.
+- **Testing.** We test our own checks: 603 deliberate breakages, each of which must make a test fail, all proven in the nightly run of 7 November 2026. On the reference platform, a 13-stage nightly suite runs mutation testing, load tests (k6), dynamic security scans (OWASP ZAP, Nuclei) and an AI analysis.
+- **Shared memory across models.** One governed knowledge base feeds our AI agents. A nightly job writes the same memory snapshot for Claude, Codex, Gemini and Opencode. A registry records who owns each store and how long it is kept, and new facts become durable only after human review. When two agents change the same note, the sync stops publishing it until a person decides. Status on 8 November 2026: in sync, no open conflicts.
+- **Operations.** A Discord bridge to AI command-line agents, daily project digests, and scheduled health and security checks that alert to Discord and Telegram.
+
+<sub>Monitoring, plainly: the dashboards (Prometheus, Grafana) belong to the reference platform. Our own server runs scheduled checks with alerts and has no dashboards.</sub>
+
+## Stack
+
+AWS · Oracle Cloud · Terraform · Kubernetes · ArgoCD · Argo Rollouts · Jenkins · GitHub Actions · Docker · Trivy · Cosign · Kyverno · SonarQube · Prometheus · Grafana · k6 · OWASP ZAP · Java/Spring Boot · Python · Bash · Next.js · PostgreSQL · Cloudflare Workers · Claude · Codex
 
 ## How a change ships
 
@@ -31,24 +43,27 @@ Borod Bank is our own reference project, not client work: a banking app delivere
 | [jenkins-setup](https://github.com/Synaptix-Innovations/jenkins-setup) | Jenkins controller image |
 | [borod-bank-docs](https://github.com/Synaptix-Innovations/borod-bank-docs) | architecture and decisions |
 
-## Proof, not promises
+## Evidence
 
-- 918 AI code reviews across 547 merged pull requests
-- 352 of 407 pull requests merged since 1 July 2026 had an AI review first
-- Tests first: every change starts from a failing test
-- The checks are tested too: we break them on purpose to prove they can fail
+- 942 AI code reviews across 564 merged pull requests
+- 368 of 424 pull requests merged since 1 July 2026 had an AI review first
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=8337e4d5" alt="Key figures" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=ace046ba" alt="Key figures" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=744cfca4" alt="Delivery health" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=736e7f06" alt="Delivery health" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=32d6be3e" alt="Reviews and merged pull requests per day" width="740">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=6007dbac" alt="Reviews and merged pull requests per day" width="740">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=8033e6e4" alt="Weekly reviews and merged pull requests" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=4efc4bc0" alt="Weekly reviews and merged pull requests" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/quality.svg?v=429dcb00" alt="Pull requests by review rounds until approval" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/quality.svg?v=f22331dc" alt="Pull requests by review rounds until approval" width="720">
 
-<sub>Counts only; generated from our own review log. Reviews are automated (Codex, with a Claude fallback).</sub>
+<sub>Counts only, generated daily from our own review log. They cover the repositories of this organisation and our website, private ones only as totals. Reviews are automated (Codex, with a Claude fallback).</sub>
+
+## Work with us
+
+- **Pipeline audit.** We read your pipeline and infrastructure code and return a written list of gaps in security, rollback and cost, each with its fix.
+- **AI review and test adoption.** We add an AI reviewer to your pull requests, with a fallback and a gate that fails closed. We also set up tests that prove your checks can fail.
 
 Canada · [synaptixtech.net](https://www.synaptixtech.net) · info@synaptixtech.net
 
