@@ -10,9 +10,9 @@
   "first_round_pct": 67
  },
  "windows": {
-  "reviews7": 37,
-  "merged7": 35,
-  "merge_hours_median_30d": 0.4
+  "reviews7": 33,
+  "merged7": 31,
+  "merge_hours_median_30d": 0.6
  },
  "rounds": {
   "r1": 237,
@@ -31,8 +31,8 @@
  },
  "delivery": {
   "merges_per_week_4w": 21.25,
-  "ci_pass_rate_30d": 89,
-  "ci_runs_30d": 129
+  "ci_pass_rate_30d": 90,
+  "ci_runs_30d": 115
  },
  "weeks": [
   {
