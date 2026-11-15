@@ -17,8 +17,8 @@ Clouds: **AWS** (EKS, RDS, KMS, Terraform; see the reference projects), and **Az
 
 - **Development.** Our AI agents follow one written workflow: issue, plan, a failing test first, pull request, review, verified close. Rules and gates decide what is finished, not the agent.
 - **Review.** Pull requests go to an AI reviewer: Codex first, Claude when Codex is unavailable. 369 of 425 pull requests merged since 1 July 2026 had an AI review before merging. Across our whole history it is 395 of 565, because our earliest projects predate the review gate.
-- **Testing.** We test our own checks: 629 deliberate breakages, each of which must make a test fail, all proven in the nightly run of 14 November 2026. On the reference platform, a 13-stage nightly suite runs mutation testing, load tests (k6), dynamic security scans (OWASP ZAP, Nuclei) and an AI analysis.
-- **Shared memory across models.** One governed knowledge base feeds our AI agents. A nightly job writes the same memory snapshot for Claude, Codex, Gemini and Opencode. A registry records who owns each store and how long it is kept, and new facts become durable only after human review. When two agents change the same note, the sync stops publishing it until a person decides. Status on 14 November 2026: in sync, no open conflicts.
+- **Testing.** We test our own checks: 629 deliberate breakages, each of which must make a test fail, all proven in the nightly run of 15 November 2026. On the reference platform, a 13-stage nightly suite runs mutation testing, load tests (k6), dynamic security scans (OWASP ZAP, Nuclei) and an AI analysis.
+- **Shared memory across models.** One governed knowledge base feeds our AI agents. A nightly job writes the same memory snapshot for Claude, Codex, Gemini and Opencode. A registry records who owns each store and how long it is kept, and new facts become durable only after human review. When two agents change the same note, the sync stops publishing it until a person decides. Status on 15 November 2026: in sync, no open conflicts.
 - **Operations.** A Discord bridge to AI command-line agents, daily project digests, and scheduled health and security checks that alert to Discord and Telegram.
 
 <sub>Monitoring, plainly: the dashboards (Prometheus, Grafana) belong to the reference platform. Our own server runs scheduled checks with alerts and has no dashboards.</sub>
@@ -48,11 +48,11 @@ Borod Bank is our own reference project, not client work: a banking app delivere
 - 943 AI code reviews across 565 merged pull requests
 - 369 of 425 pull requests merged since 1 July 2026 had an AI review first
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=35893cd2" alt="Key figures" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=87b580c6" alt="Key figures" width="720">
 
 <img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=37fa1358" alt="Delivery health" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=46a7e00c" alt="Reviews and merged pull requests per day" width="740">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=9412bd8a" alt="Reviews and merged pull requests per day" width="740">
 
 <img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=8383a9f2" alt="Weekly reviews and merged pull requests" width="720">
 
