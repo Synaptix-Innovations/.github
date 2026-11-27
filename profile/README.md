@@ -1,6 +1,6 @@
 <!-- synaptix-stats:start -->
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/banner.svg?v=7743760f" alt="Synaptix Innovations" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/banner.svg?v=73814830" alt="Synaptix Innovations" width="720">
 
 We build delivery pipelines and infrastructure as code, and we bring AI into development, review and testing under the same engineering controls.
 
@@ -16,9 +16,9 @@ Clouds: **AWS** (EKS, RDS, KMS, Terraform; see the reference projects), and **Az
 ## AI adoption
 
 - **Development.** Our AI agents follow one written workflow: issue, plan, a failing test first, pull request, review, verified close. Rules and gates decide what is finished, not the agent.
-- **Review.** Pull requests go to an AI reviewer: Codex first, Claude when Codex is unavailable. 377 of 434 pull requests merged since 1 July 2026 had an AI review before merging. Across our whole history it is 403 of 574, because our earliest projects predate the review gate.
-- **Testing.** We test our own checks: 629 deliberate breakages, each of which must make a test fail, all proven in the nightly run of 26 November 2026. On the reference platform, a 13-stage nightly suite runs mutation testing, load tests (k6), dynamic security scans (OWASP ZAP, Nuclei) and an AI analysis.
-- **Shared memory across models.** One governed knowledge base feeds our AI agents. A nightly job writes the same memory snapshot for Claude, Codex, Gemini and Opencode. A registry records who owns each store and how long it is kept, and new facts become durable only after human review. When two agents change the same note, the sync stops publishing it until a person decides. Status on 26 November 2026: in sync, no open conflicts.
+- **Review.** Pull requests go to an AI reviewer: Codex first, Claude when Codex is unavailable. 378 of 435 pull requests merged since 1 July 2026 had an AI review before merging. Across our whole history it is 404 of 575, because our earliest projects predate the review gate.
+- **Testing.** We test our own checks: 639 deliberate breakages, each of which must make a test fail, all proven in the nightly run of 27 November 2026. On the reference platform, a 13-stage nightly suite runs mutation testing, load tests (k6), dynamic security scans (OWASP ZAP, Nuclei) and an AI analysis.
+- **Shared memory across models.** One governed knowledge base feeds our AI agents. A nightly job writes the same memory snapshot for Claude, Codex, Gemini and Opencode. A registry records who owns each store and how long it is kept, and new facts become durable only after human review. When two agents change the same note, the sync stops publishing it until a person decides. Status on 27 November 2026: in sync, no open conflicts.
 - **Operations.** A Discord bridge to AI command-line agents, daily project digests, and scheduled health and security checks that alert to Discord and Telegram.
 
 <sub>Monitoring, plainly: the dashboards (Prometheus, Grafana) belong to the reference platform. Our own server runs scheduled checks with alerts and has no dashboards.</sub>
@@ -45,18 +45,18 @@ Borod Bank is our own reference project, not client work: a banking app delivere
 
 ## Evidence
 
-- 957 AI code reviews across 574 merged pull requests
-- 377 of 434 pull requests merged since 1 July 2026 had an AI review first
+- 959 AI code reviews across 575 merged pull requests
+- 378 of 435 pull requests merged since 1 July 2026 had an AI review first
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=eb414878" alt="Key figures" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/kpi.svg?v=8efa4ad9" alt="Key figures" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=dd24cf73" alt="Delivery health" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/delivery.svg?v=a0f39eaa" alt="Delivery health" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=7fba15b9" alt="Reviews and merged pull requests per day" width="740">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/heatmap.svg?v=eb1983be" alt="Reviews and merged pull requests per day" width="740">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=001162c8" alt="Weekly reviews and merged pull requests" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/stats.svg?v=02a84bc4" alt="Weekly reviews and merged pull requests" width="720">
 
-<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/quality.svg?v=1f4c150e" alt="Pull requests by review rounds until approval" width="720">
+<img src="https://raw.githubusercontent.com/Synaptix-Innovations/.github/main/profile/quality.svg?v=b22d2d1e" alt="Pull requests by review rounds until approval" width="720">
 
 <sub>Counts only, generated daily from our own review log. They cover the repositories of this organisation and our website, private ones only as totals. Reviews are automated (Codex, with a Claude fallback).</sub>
 
