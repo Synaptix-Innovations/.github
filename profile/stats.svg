@@ -28,8 +28,8 @@
 <rect class="c" x="603.9" y="132.4" width="35.2" height="3.6"/>
 <rect class="l" x="603.9" y="126.6" width="35.2" height="5.8"/>
 <text x="621.5" y="123.6" text-anchor="middle">13</text>
-<rect class="c" x="658.9" y="134.6" width="35.2" height="1.4"/>
-<text x="676.5" y="131.6" text-anchor="middle">2</text>
+<rect class="c" x="658.9" y="133.1" width="35.2" height="2.9"/>
+<text x="676.5" y="130.1" text-anchor="middle">4</text>
 <rect class="o" x="634" y="19" width="9" height="9"/><text x="647" y="28">Other</text>
 <rect class="l" x="557" y="19" width="9" height="9"/><text x="570" y="28">Claude</text>
 <rect class="c" x="487" y="19" width="9" height="9"/><text x="500" y="28">Codex</text>
